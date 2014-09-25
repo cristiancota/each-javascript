@@ -1,4 +1,4 @@
 each-javascript
 ===============
 
-This is the implementation of each function, with javascript
+This is a simple implementation of each function, in javascript
